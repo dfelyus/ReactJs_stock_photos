@@ -1,0 +1,11 @@
+What is Axios used for?
+Axios is a popular JavaScript library used for making HTTP requests from a web browser or Node. js. It simplifies the process of sending asynchronous HTTP requests to a server, and also handles the response.
+
+============================================================
+
+Use the useContext Hook. In order to use the Context in a child component, we need to access it using the useContext Hook
+
+============================================================
+
+The useEffect Hook allows you to perform side effects in your components. Some examples of side effects are: fetching data, directly updating the DOM, 
+
